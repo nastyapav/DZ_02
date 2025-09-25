@@ -69,7 +69,7 @@ namespace Type
                 index = found + 1;
             }
             Console.WriteLine("Количество вхождений:" + count);
-            Console.WriteLine("\nЗадание 5:\nВведите через Enter:обычную цену за бутылку/скидку в %/ стоимость отпуска");
+            Console.WriteLine("\n\nЗадание 5:\nВведите через Enter:обычную цену за бутылку/скидку в %/ стоимость отпуска");
             int normPrice = int.Parse(Console.ReadLine());
             int discountPercent = int.Parse(Console.ReadLine());
             int holidayPrice = int.Parse(Console.ReadLine());

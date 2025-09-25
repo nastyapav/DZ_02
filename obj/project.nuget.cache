@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "BdifXfyTN4A=",
   "success": true,
   "projectFilePath": "C:\\Users\\Анастасия\\source\\repos\\nastyapav\\DZ_02\\DZ02.csproj",
+=======
+  "dgSpecHash": "XoaowyLJ6js=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Анастасия\\Source\\Repos\\DZ_02\\DZ02.csproj",
+>>>>>>> d9aa09894f554e34262a3cccd53225c232d23e16
   "expectedPackageFiles": [],
   "logs": []
 }

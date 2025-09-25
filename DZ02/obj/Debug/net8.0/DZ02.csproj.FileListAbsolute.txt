@@ -1,0 +1,14 @@
+C:\Users\Анастасия\source\repos\DZ02\bin\Debug\net8.0\DZ02.exe
+C:\Users\Анастасия\source\repos\DZ02\bin\Debug\net8.0\DZ02.deps.json
+C:\Users\Анастасия\source\repos\DZ02\bin\Debug\net8.0\DZ02.runtimeconfig.json
+C:\Users\Анастасия\source\repos\DZ02\bin\Debug\net8.0\DZ02.dll
+C:\Users\Анастасия\source\repos\DZ02\bin\Debug\net8.0\DZ02.pdb
+C:\Users\Анастасия\source\repos\DZ02\obj\Debug\net8.0\DZ02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\source\repos\DZ02\obj\Debug\net8.0\DZ02.AssemblyInfoInputs.cache
+C:\Users\Анастасия\source\repos\DZ02\obj\Debug\net8.0\DZ02.AssemblyInfo.cs
+C:\Users\Анастасия\source\repos\DZ02\obj\Debug\net8.0\DZ02.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\DZ02\obj\Debug\net8.0\DZ02.dll
+C:\Users\Анастасия\source\repos\DZ02\obj\Debug\net8.0\refint\DZ02.dll
+C:\Users\Анастасия\source\repos\DZ02\obj\Debug\net8.0\DZ02.pdb
+C:\Users\Анастасия\source\repos\DZ02\obj\Debug\net8.0\DZ02.genruntimeconfig.cache
+C:\Users\Анастасия\source\repos\DZ02\obj\Debug\net8.0\ref\DZ02.dll
